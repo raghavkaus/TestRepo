@@ -11,7 +11,11 @@ public class Constructor1 {
 	public static void main(String[] args) {
 		
 		Constructor1 v2= new Constructor1();
+		new Constructor1();
+		
+		//Constructor can also be called using  new Constructor1
 		// TODO Auto-generated method stub
+		
 
 	}
 
