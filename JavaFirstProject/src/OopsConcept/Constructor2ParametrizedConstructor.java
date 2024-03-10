@@ -11,6 +11,7 @@ public class Constructor2ParametrizedConstructor {
 		
 	}
 	
+	
 
 	public static void main(String[] args) {
 		Constructor2ParametrizedConstructor e2 =new Constructor2ParametrizedConstructor(5);

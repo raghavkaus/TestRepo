@@ -41,6 +41,7 @@ public class Arraylist {
 	System.out.println(g2);
 	System.out.println(g2.contains("Ram1"));
 	
+	
 		// TODO Auto-generated method stub
 
 	}

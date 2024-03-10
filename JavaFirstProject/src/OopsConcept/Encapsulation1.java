@@ -19,7 +19,7 @@ public class Encapsulation1 {
 
 	}
 	public class Encapsulation2 {
-		public static void main(String[] args) {
+		public void main(String[] args) {
 			
 			Encapsulation1 e2=new Encapsulation1();
 			e2.setempid(30);
